@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Dairy Farmers Hub",
+      "hasCanvas": false,
+      "bodyTextLen": 2384,
+      "bodyTextHash": "1746ebbf1f2894d356647d4b7ae4f2b1a09f0b478cec5b1ca6aa83ac180cafe2",
+      "bodyTextPrefix": "Dairy Farmers Hub Kenya · free to use Guides Calculator Market C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Dairy Farmers Hub",
+      "hasCanvas": false,
+      "bodyTextLen": 2355,
+      "bodyTextHash": "9ad5374b69fab3c62917247184c5e74ffe58b2e116b2668199271001bba555c1",
+      "bodyTextPrefix": "Dairy Farmers Hub Kenya · free to use Open menu For farmers who ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

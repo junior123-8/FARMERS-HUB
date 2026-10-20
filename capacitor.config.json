@@ -1,0 +1,5 @@
+{
+  "appId": "com.dairyfarmershub.app",
+  "appName": "Dairy Farmers Hub",
+  "webDir": "dist/client"
+}
